@@ -1,0 +1,6 @@
+{% macro sidebar_icon(icon, text = "tooltip") %}
+<div class="sidebar-icon group">
+    <i class="{{ icon }}"></i>
+    <span class="sidebar-tooltip group-hover:scale-100">{{ text }}</span>
+</div>
+{% endmacro %}
