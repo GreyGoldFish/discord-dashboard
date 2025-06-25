@@ -4,6 +4,8 @@ This project is a dashboard with a user interface inspired by Discord. It was cr
 
 The project is based on the [tailwind-dashboard](https://github.com/fireship-io/tailwind-dashboard) repository from Fireship.io. The original was built with React, and this version has been adapted to use the Eleventy static site generator.
 
+![brave_aaD3zv5AsK](https://github.com/user-attachments/assets/5fb0726c-31f2-4c1b-8a19-88972c0f0c39)
+
 ## Getting Started
 
 To run the project locally, follow these steps.
